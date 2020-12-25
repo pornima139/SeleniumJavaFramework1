@@ -22,7 +22,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 	    baseUrl = "https://www.google.com/";
 	    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	  }
-
+	  
 	  @Test
 	  public void testCase1() throws Exception {
 	    driver.get("https://opensource-demo.orangehrmlive.com/");
