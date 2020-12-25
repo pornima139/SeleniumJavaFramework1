@@ -1,0 +1,27 @@
+[INFO ] 2020-12-19 12:40:30.239 [main] Log4jDemo - this is info message
+[ERROR] 2020-12-19 12:40:30.251 [main] Log4jDemo - this is error message
+[FATAL] 2020-12-19 12:40:30.252 [main] Log4jDemo - this is info message
+[WARN ] 2020-12-19 12:40:30.253 [main] Log4jDemo - this is error message
+[TRACE] 2020-12-19 12:43:35.732 [main] Log4jDemo - this is trace message
+[INFO ] 2020-12-19 12:43:35.741 [main] Log4jDemo - this is info message
+[ERROR] 2020-12-19 12:43:35.742 [main] Log4jDemo - this is error message
+[FATAL] 2020-12-19 12:43:35.742 [main] Log4jDemo - this is info message
+[WARN ] 2020-12-19 12:43:35.742 [main] Log4jDemo - this is error message
+[TRACE] 2020-12-19 12:47:45.208 [main] Log4jDemo - this is trace message
+[INFO ] 2020-12-19 12:47:45.217 [main] Log4jDemo - this is info message
+[ERROR] 2020-12-19 12:47:45.217 [main] Log4jDemo - this is error message
+[FATAL] 2020-12-19 12:47:45.218 [main] Log4jDemo - this is info message
+[WARN ] 2020-12-19 12:47:45.218 [main] Log4jDemo - this is error message
+[TRACE] 2020-12-19 12:49:53.287 [main] Log4jDemo - this is trace message
+[INFO ] 2020-12-19 12:49:53.295 [main] Log4jDemo - this is info message
+[ERROR] 2020-12-19 12:49:53.296 [main] Log4jDemo - this is error message
+[FATAL] 2020-12-19 12:49:53.296 [main] Log4jDemo - this is info message
+[WARN ] 2020-12-19 12:49:53.296 [main] Log4jDemo - this is error message
+[TRACE] 2020-12-19 15:04:58.716 [main] Log4jDemo - this is trace message
+[INFO ] 2020-12-19 15:04:58.735 [main] Log4jDemo - this is info message
+[ERROR] 2020-12-19 15:04:58.735 [main] Log4jDemo - this is error message
+[FATAL] 2020-12-19 15:04:58.736 [main] Log4jDemo - this is info message
+[WARN ] 2020-12-19 15:04:58.736 [main] Log4jDemo - this is error message
+[INFO ] 2020-12-19 16:59:12.056 [main] Log4jDemo - this is info msssage
+[INFO ] 2020-12-19 17:06:11.597 [main] Log4jDemo - navigated to google
+[INFO ] 2020-12-19 17:08:13.753 [main] Log4jDemo - navigated to google
